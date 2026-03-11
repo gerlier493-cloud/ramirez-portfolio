@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<operations>
+    <operation value="add">Addition (+)</operation>
+    <operation value="subtract">Subtraction (-)</operation>
+    <operation value="multiply">Multiplication (×)</operation>
+    <operation value="divide">Division (÷)</operation>
+</operations>
